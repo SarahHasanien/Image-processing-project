@@ -29,7 +29,7 @@ i=1  #for naming images
 
 answersCount=0
 over=cv2.imread('over.jpg',1)
-second=cv2.imread('colors.png',1)
+second=cv2.imread('colors2.png',1)
 
 skin_min=np.array((0,133,77))
 skin_max=np.array((255,173,127))
